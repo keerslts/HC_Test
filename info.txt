@@ -9,6 +9,9 @@ https://github.com/
 
 
 activiti
+https://blog.csdn.net/wufaqidong1/article/details/128435982
+
+https://blog.csdn.net/m0_49605579/article/details/125395515
 
 plugin
 https://plugins.jetbrains.com/plugin/7429-actibpm
