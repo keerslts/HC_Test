@@ -1,0 +1,14 @@
+
+mysql
+https://blog.csdn.net/Jack_joker/article/details/123835806
+https://blog.csdn.net/xuelang532777032/article/details/108846153
+https://blog.csdn.net/qq_39715000/article/details/120748498
+
+git
+https://github.com/
+
+
+activiti
+
+plugin
+https://plugins.jetbrains.com/plugin/7429-actibpm
